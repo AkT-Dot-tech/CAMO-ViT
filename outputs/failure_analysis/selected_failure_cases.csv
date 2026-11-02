@@ -1,0 +1,21 @@
+image,dice,iou,category,visualization
+171.jpg,0.0,0.0,zero_dice,C:\Users\aksha\Downloads\Major Project\CAMO-ViT\outputs\failure_analysis\individual\zero_dice_01_171.png
+182.jpg,0.0,0.0,zero_dice,C:\Users\aksha\Downloads\Major Project\CAMO-ViT\outputs\failure_analysis\individual\zero_dice_02_182.png
+25.jpg,0.0,0.0,zero_dice,C:\Users\aksha\Downloads\Major Project\CAMO-ViT\outputs\failure_analysis\individual\zero_dice_03_25.png
+278.jpg,0.0,0.0,zero_dice,C:\Users\aksha\Downloads\Major Project\CAMO-ViT\outputs\failure_analysis\individual\zero_dice_04_278.png
+404.jpg,0.0,0.0,zero_dice,C:\Users\aksha\Downloads\Major Project\CAMO-ViT\outputs\failure_analysis\individual\zero_dice_05_404.png
+414.jpg,0.0,0.0,zero_dice,C:\Users\aksha\Downloads\Major Project\CAMO-ViT\outputs\failure_analysis\individual\zero_dice_06_414.png
+444.jpg,0.0,0.0,zero_dice,C:\Users\aksha\Downloads\Major Project\CAMO-ViT\outputs\failure_analysis\individual\zero_dice_07_444.png
+446.jpg,0.0,0.0,zero_dice,C:\Users\aksha\Downloads\Major Project\CAMO-ViT\outputs\failure_analysis\individual\zero_dice_08_446.png
+56.jpg,0.0,0.0,zero_dice,C:\Users\aksha\Downloads\Major Project\CAMO-ViT\outputs\failure_analysis\individual\zero_dice_09_56.png
+p29.jpg,0.0,0.0,zero_dice,C:\Users\aksha\Downloads\Major Project\CAMO-ViT\outputs\failure_analysis\individual\zero_dice_10_p29.png
+p67.jpg,0.0,0.0,zero_dice,C:\Users\aksha\Downloads\Major Project\CAMO-ViT\outputs\failure_analysis\individual\zero_dice_11_p67.png
+w146.jpg,0.0,0.0,zero_dice,C:\Users\aksha\Downloads\Major Project\CAMO-ViT\outputs\failure_analysis\individual\zero_dice_12_w146.png
+w252.jpg,0.01595441595350687,0.008041355542329617,low_dice,C:\Users\aksha\Downloads\Major Project\CAMO-ViT\outputs\failure_analysis\individual\low_dice_13_w252.png
+287.jpg,0.029347028612635193,0.014892032762102457,low_dice,C:\Users\aksha\Downloads\Major Project\CAMO-ViT\outputs\failure_analysis\individual\low_dice_14_287.png
+424.jpg,0.06397658373272054,0.03304535637077656,low_dice,C:\Users\aksha\Downloads\Major Project\CAMO-ViT\outputs\failure_analysis\individual\low_dice_15_424.png
+447.jpg,0.0985971943874603,0.05185497470416168,low_dice,C:\Users\aksha\Downloads\Major Project\CAMO-ViT\outputs\failure_analysis\individual\low_dice_16_447.png
+p96.jpg,0.20073370331858964,0.11156419907871638,low_dice,C:\Users\aksha\Downloads\Major Project\CAMO-ViT\outputs\failure_analysis\individual\low_dice_17_p96.png
+228.jpg,0.20263795946057353,0.11274187108110817,low_dice,C:\Users\aksha\Downloads\Major Project\CAMO-ViT\outputs\failure_analysis\individual\low_dice_18_228.png
+15.jpg,0.23173803524502617,0.13105413104168526,low_dice,C:\Users\aksha\Downloads\Major Project\CAMO-ViT\outputs\failure_analysis\individual\low_dice_19_15.png
+333.jpg,0.2582781456831467,0.1482889733759756,low_dice,C:\Users\aksha\Downloads\Major Project\CAMO-ViT\outputs\failure_analysis\individual\low_dice_20_333.png
